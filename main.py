@@ -109,7 +109,7 @@ async def on_message(message):
 
         # print price to console and chat
         print(str(message.author) + " requested price for " + ticker)
-        await message.channel.send(ticker + ": " + price)
+        await message.channel.send("```" + ticker + ": " + price + "```")
 
       else:
         print(str(message.author) + " invalid command: \"" + message.content + "\"")
