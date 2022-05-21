@@ -14,3 +14,27 @@ StonkBot is a Discord bot that fetches stock data based on user commands and que
 
 ## Image Examples
 
+### Price (individual)
+![Price example for a single stock ticker](https://github.com/sltaylo-r/StonkBot/blob/main/images/price.png)
+
+### Volume (individual)
+![Volume example for a single stock ticker](https://github.com/sltaylo-r/StonkBot/blob/main/images/volume.png)
+
+### List Add
+![List example, adding tickers to list](https://github.com/sltaylo-r/StonkBot/blob/main/images/listadd.png)
+
+### List
+![List example, showing the list](https://github.com/sltaylo-r/StonkBot/blob/main/images/list.png)
+
+### List Price
+![List example, showing the price of tickers in the list](https://github.com/sltaylo-r/StonkBot/blob/main/images/listprice.png)
+
+### List Volume
+![List example, showing the volume of tickers in the list](https://github.com/sltaylo-r/StonkBot/blob/main/images/listvolume.png)
+
+### List Remove
+![List example, removing a ticker from the list](https://github.com/sltaylo-r/StonkBot/blob/main/images/listremove.png)
+![List example, showing the list after removal of a ticker](https://github.com/sltaylo-r/StonkBot/blob/main/images/listafterremove.png)
+
+### List Max
+![List example, showing the limit of tickers in a single list (10)](https://github.com/sltaylo-r/StonkBot/blob/main/images/listmax.png)
