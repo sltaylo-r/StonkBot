@@ -3,6 +3,12 @@ StonkBot is a Discord bot that fetches stock data based on user commands and que
 
 *Users are limited to 10 stocks per list as the API can only handle on request per second per user - resulting in up to 10 seconds per response if a user has a full list*
 
+## Setup
+If you would like to run your own StonkBot, follow these steps:
+1. Load the *main.py* file into a Repl.it repository or something similar to host the bot.
+2. Sign up for the RealStonks API on RapidAPI to receive an API key and Token to use in your requests.
+3. Set your Repl.it secrets for the Token, API host, and API key.
+
 ## Commands
 - '?price [ticker]' will fetch the price of a given stock
 - '?volume [ticker]' will fetch the volume of a stock
